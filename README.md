@@ -5,3 +5,5 @@ The link shows the tutorial that I used to construct this. The things that I use
 
 I have replaced and will continue to replace many of the sprites and codes. The background, ball, and paddle are mine that I have designed via GIMP. 
 The code has been edited to add functions such as pausing and a menu feature. 
+
+Please check the "How to play" button on the menu for instructions on how to play the game
